@@ -5,3 +5,4 @@ Required Components for the project:
 * Display ([Amazon](https://www.amazon.it/Kuman-Monitor-Protective-Resolution-Raspberry/dp/B07KSHVC3H/ "Link"))
 * Speakers
 * Power Supply
+* Case
